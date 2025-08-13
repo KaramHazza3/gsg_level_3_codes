@@ -1,7 +1,7 @@
 # gsg_level_3_codes
 
-Name: Karam Rami Hazzaa Hazzaa
-ID: karam.hazzaa@gmail.com
+# Name: Karam Rami Hazzaa Hazzaa
+# ID: karam.hazzaa@gmail.com
 
 # Description:
 It's a task for taking an array of activities, for example: {"Swimming", "Running", "Football"}
